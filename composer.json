@@ -1,0 +1,26 @@
+{
+  "name": "mimographix/qif-library",
+  "description": "A simple QIF parsing/writing library.",
+  "version": "1.0.0",
+  "type": "library",
+  "keywords": [
+    "qif",
+    "writer",
+    "parser"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "MimoGraphix",
+      "email": "mimographix@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "MimoGraphix\\QIF\\": "src/"
+    }
+  },
+  "require": {
+    "nesbot/carbon": "^2"
+  }
+}
