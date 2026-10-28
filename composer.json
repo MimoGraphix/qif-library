@@ -1,7 +1,6 @@
 {
   "name": "mimographix/qif-library",
   "description": "A simple QIF parsing/writing library.",
-  "version": "1.0.0",
   "type": "library",
   "keywords": [
     "qif",
